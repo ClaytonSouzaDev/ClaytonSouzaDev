@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ClaytonSouzaDev
-- 👀 I’m interested in HTML, CSS, JAVASCRIPT
+- 👀 I’m interested in develop apps
 - 🌱 I’m currently learning Git, GitHub, HTML, CSS, JAVASCRIPT, NODEJS, EXPRESS, MONGODB, MONGOOSE, REACT, REDUX, BOOTSTRAP, SASS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
